@@ -132,3 +132,17 @@ header {
   	border-color: tomato;
   	transition:  0.5s;
   }
+
+  .section2 { 
+    background-image:  linear-gradient(rgba(242,130,80,0.8), rgba(242,130,80,0.9)),url(img/sec2-bg.jpg);
+    height: 100vh;
+  }
+
+  .row {  padding-top: 15%; }
+
+ .sec2-text { color: #fff; } 
+
+ .sec2-text h2 {
+  line-height: 120%;
+  font-size: 150%;
+ }
